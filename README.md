@@ -4,10 +4,4 @@
 
 ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillzx&show_icons=true&theme=aura_dark) 
 
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-<i class="programming lang-ruby"></i>
-<i class="programming lang-javascript"></i>
-<i class="programming lang-cpp"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-python"></i>
-<i class="programming lang-kotlin"></i>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
