@@ -4,4 +4,4 @@
 
 ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillzx&show_icons=true&theme=aura_dark) 
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg'>
