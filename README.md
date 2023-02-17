@@ -2,6 +2,8 @@
 Collaborate in:
 
         💹 Financial Mathematics (derivative pricing based on SDE)
+        
+        👨🏻‍🏫 Applications of Stochastic Calculus, Measure Theory and Operator Theory
 
         🧑🏻‍💻 Synthetic Data Generation (time series, tabular data, transactions)
   
