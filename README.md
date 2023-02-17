@@ -1,9 +1,10 @@
 # kirillzx (Kirill Zakharov)
 Collaborate in:
+  💹 Financial Mathematics (derivative pricing based on SDE)
 
-💹 Financial Mathematics (derivative pricing based on SDE)
-🧑🏻‍💻 Synthetic Data Generation (time series, tabular data, transactions)
-🧠 Neural Networks Architectures
+  🧑🏻‍💻 Synthetic Data Generation (time series, tabular data, transactions)
+
+  🧠 Neural Networks Architectures
 
 ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillzx&show_icons=true&theme=swift&include_all_commits=true&count_private=true)
 
