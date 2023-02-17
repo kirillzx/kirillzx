@@ -1,6 +1,6 @@
 # kirillzx (Kirill Zakharov)
 Collaborate in:
-  💹 Financial Mathematics (derivative pricing based on SDE)
+        💹 Financial Mathematics (derivative pricing based on SDE)
 
         🧑🏻‍💻 Synthetic Data Generation (time series, tabular data, transactions)
   
