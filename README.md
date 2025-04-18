@@ -1,5 +1,6 @@
 # kirillzx (Kirill Zakharov)
 Collaborate in:
+
         🧑🏻‍💻 Generative AI in CV, NLP and tabular data
 
         ⚙️ Physics-Informed Neural Networks and Dynamical Systems
