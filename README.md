@@ -1,13 +1,12 @@
 # kirillzx (Kirill Zakharov)
 Collaborate in:
+        🧑🏻‍💻 Generative AI in CV, NLP and tabular data
 
-        💹 Financial Mathematics (derivative pricing based on SDE)
+        ⚙️ Physics-Informed Neural Networks and Dynamical Systems
         
-        👨🏻‍🏫 Applications of Stochastic Calculus, Measure Theory and Operator Theory
+        👨🏻‍🏫 Applications of Stochastic Calculus and Operator Theory
 
-        🧑🏻‍💻 Synthetic Data Generation (time series, tabular data, transactions)
-  
-        🧠 Neural Networks Architectures
+        💹 Mathematical Finance (derivative pricing)
 
 ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillzx&show_icons=true&theme=swift&include_all_commits=true&count_private=true)
 
